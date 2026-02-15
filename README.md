@@ -2,8 +2,8 @@ Bem-vindo(a) ao perfil da Suelenfb 😁
 
 <div>
    <a href="https://github.com/Suelenfb">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Suelenfb&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suelenfb&layout=compact&langs_count=6&theme=aura"/>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Suelenfb&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suelenfb&layout=compact&langs_count=6&theme=aura"/>
    </a>
 </div>
     
