@@ -22,8 +22,8 @@ Bem-vindo(a) ao perfil da Suelenfb 😁
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-![Suelenfb GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberry&theme=dark&show_icons=true)
 
+![Suelenfb GitHub stats](https://github-readme-stats.vercel.app/api?username=blueberry&theme=dark&show_icons=true)
 <br>
  
 ### Para saber mais, me siga nas redes abaixo!
