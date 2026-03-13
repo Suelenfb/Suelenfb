@@ -23,7 +23,7 @@ Bem-vindo(a) ao perfil da Suelenfb 😁
 </div>
 
 
-![Suelenfb GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfb&?theme=radical_icons=true)
+![Suelenfb GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfb&?theme=cobalt_icons=true)
 <br>
  
 ### Para saber mais, me siga nas redes abaixo!
